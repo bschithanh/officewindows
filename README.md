@@ -1,6 +1,6 @@
 # Kích hoạt office và windows kỹ thuật số
 
-## [Bấm vào đây để xem](https://bsngchithanh.blogspot.com/2025/03/kich-hoat-office-va-windows-moi-phien.html) hoặc để bình luận ##
+## [Bấm vào đây để xem hoặc để bình luận](https://bsngchithanh.blogspot.com/2025/03/kich-hoat-office-va-windows-moi-phien.html) ##
 
 QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạn cà phê ạ!
 
