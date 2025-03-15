@@ -20,9 +20,11 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
   ```php
   powershell iex (irm https://massgrave.dev/get)
   ```
+
+## Ảnh Demo:
+
+  ![image](https://github.com/user-attachments/assets/6b10b88e-18fd-43fa-aedc-80d16c8c814b)
   
- ![image](https://github.com/user-attachments/assets/6b10b88e-18fd-43fa-aedc-80d16c8c814b)
+  ![image](https://github.com/user-attachments/assets/dcec8a41-72c1-4bf2-b71a-5119d0cddb01)
 
-![image](https://github.com/user-attachments/assets/dcec8a41-72c1-4bf2-b71a-5119d0cddb01)
-
-Làm theo hướng dẫn của cửa sổ hiện lên là xong!
+  Làm theo hướng dẫn của cửa sổ hiện lên là xong!
