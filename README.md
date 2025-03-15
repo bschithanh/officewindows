@@ -23,4 +23,12 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
   
   ![image](https://github.com/user-attachments/assets/b97f5a04-22fb-4013-80f8-d00056a0ea57)
 
+  **Save As** với tên **MAS.cmd**, rồi run file **MAS.cmd** đó bằng quyền **Run as Administrator**, một cửa sổ hiện lên, làm theo hướng dẫn của cửa sổ đó là xong!
 
+  ![image](https://github.com/user-attachments/assets/d6fc6c55-9873-4fd8-8417-bb56875dbaf4)
+
+  ![image](https://github.com/user-attachments/assets/614f55e9-c702-463a-aad6-43e57b13a53f)
+
+
+
+  
