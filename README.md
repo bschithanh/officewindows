@@ -12,13 +12,13 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 - Bạn mởi **NotePad** và copy một trong 2 đoạn code sau đây dán vào NotePad
 
   ```php
-  powershell iex (irm https://massgrave.dev/get)
+  powershell iex (irm https://raw.githubusercontent.com/bschithanh/nguon/main/mas-aio.ps1)
   ```
 
   Hoặc:
   
   ```php
-  powershell iex (irm https://raw.githubusercontent.com/bschithanh/nguon/main/mas-aio.ps1)
+  powershell iex (irm https://massgrave.dev/get)
   ```
   
   ![image](https://github.com/user-attachments/assets/b97f5a04-22fb-4013-80f8-d00056a0ea57)
