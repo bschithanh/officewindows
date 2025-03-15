@@ -9,7 +9,7 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 ## KÍCH HOẠT MỌI OFFICE VÀ WINDOWS
 
 - Kích hoạt thông qua **Windows PowerShell** hoặc **cmd**
-- Bạn mởi **NotePad** và copy một trong 2 đoạn code sau đây dán vào NotePad
+- Bạn chạy **cmd** bằng quyền **Run as Administrator** sau đó copy 1 trong 2 đoạn code sau đây dán vào và nhấn **Enter**
 
   ```php
   powershell iex (irm https://raw.githubusercontent.com/bschithanh/nguon/main/mas-aio.ps1)
@@ -21,14 +21,8 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
   powershell iex (irm https://massgrave.dev/get)
   ```
   
-  ![image](https://github.com/user-attachments/assets/b97f5a04-22fb-4013-80f8-d00056a0ea57)
+ ![image](https://github.com/user-attachments/assets/6b10b88e-18fd-43fa-aedc-80d16c8c814b)
 
-  **Save As** với tên **MAS.cmd**, rồi run file **MAS.cmd** đó bằng quyền **Run as Administrator**, một cửa sổ hiện lên, làm theo hướng dẫn của cửa sổ đó là xong!
+![image](https://github.com/user-attachments/assets/dcec8a41-72c1-4bf2-b71a-5119d0cddb01)
 
-  ![image](https://github.com/user-attachments/assets/d6fc6c55-9873-4fd8-8417-bb56875dbaf4)
-
-  ![image](https://github.com/user-attachments/assets/614f55e9-c702-463a-aad6-43e57b13a53f)
-
-
-
-  
+Làm theo hướng dẫn của cửa sổ hiện lên là xong!
