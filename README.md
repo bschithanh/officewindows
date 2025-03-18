@@ -28,3 +28,5 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
   ![image](https://github.com/user-attachments/assets/dcec8a41-72c1-4bf2-b71a-5119d0cddb01)
 
   Làm theo hướng dẫn của cửa sổ hiện lên là xong!
+
+[Link source](https://docs.google.com/spreadsheets/d/e/2PACX-1vTId_2VGY1MeQdeH6OU6Oja27zMe91mHmYUl6aVWsyKlcFBuLwvr2M-9uaBRWDUqxPAi5xE-pqief4d/pubhtml#)
